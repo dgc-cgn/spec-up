@@ -1,4 +1,4 @@
-Spec-Up Example
+DGC Spec-Up Example
 ==================
 
 **Specification Status:** Draft
